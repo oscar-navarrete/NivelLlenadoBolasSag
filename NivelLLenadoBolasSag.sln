@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NivelLLenadoBolasSag", "NivelLLenadoBolasSag\NivelLLenadoBolasSag.csproj", "{9BAD42BE-EF35-4E09-84A0-86115A1CDC1C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorNivelBolasSag", "InstaladorNivelBolasSag\InstaladorNivelBolasSag.vdproj", "{14A49117-1B94-46D1-98B3-BF026F33EB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAD42BE-EF35-4E09-84A0-86115A1CDC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAD42BE-EF35-4E09-84A0-86115A1CDC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAD42BE-EF35-4E09-84A0-86115A1CDC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAD42BE-EF35-4E09-84A0-86115A1CDC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A49117-1B94-46D1-98B3-BF026F33EB22}.Debug|Any CPU.ActiveCfg = Debug
+		{14A49117-1B94-46D1-98B3-BF026F33EB22}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA98AF63-4CBF-427A-937D-46DF7264FF10}
+	EndGlobalSection
+EndGlobal
